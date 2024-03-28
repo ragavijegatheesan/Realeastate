@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Realeastate/static/css/main.bc4aa174.css",
+    "main.js": "/Realeastate/static/js/main.832add33.js",
+    "static/js/453.249becc9.chunk.js": "/Realeastate/static/js/453.249becc9.chunk.js",
+    "static/media/hero.jpg": "/Realeastate/static/media/hero.0b2c7dfc5dfbe496e003.jpg",
+    "static/media/residencies.jpg": "/Realeastate/static/media/residencies.a0cdc93df7ec1ec3a200.jpg",
+    "static/media/contactbg.webp": "/Realeastate/static/media/contactbg.959db750dca9beb4ea20.webp",
+    "index.html": "/Realeastate/index.html",
+    "main.bc4aa174.css.map": "/Realeastate/static/css/main.bc4aa174.css.map",
+    "main.832add33.js.map": "/Realeastate/static/js/main.832add33.js.map",
+    "453.249becc9.chunk.js.map": "/Realeastate/static/js/453.249becc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc4aa174.css",
+    "static/js/main.832add33.js"
+  ]
+}
